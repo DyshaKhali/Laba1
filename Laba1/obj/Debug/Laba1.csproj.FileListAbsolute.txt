@@ -1,0 +1,13 @@
+C:\Users\KHALIKOVS\source\repos\Laba1\Laba1\bin\Debug\Laba1.exe.config
+C:\Users\KHALIKOVS\source\repos\Laba1\Laba1\bin\Debug\Laba1.exe
+C:\Users\KHALIKOVS\source\repos\Laba1\Laba1\bin\Debug\Laba1.pdb
+C:\Users\KHALIKOVS\source\repos\Laba1\Laba1\bin\Debug\ja\Laba1.resources.dll
+C:\Users\KHALIKOVS\source\repos\Laba1\Laba1\obj\Debug\Laba1.csprojAssemblyReference.cache
+C:\Users\KHALIKOVS\source\repos\Laba1\Laba1\obj\Debug\Laba1.Array.resources
+C:\Users\KHALIKOVS\source\repos\Laba1\Laba1\obj\Debug\Laba1.Properties.Resources.resources
+C:\Users\KHALIKOVS\source\repos\Laba1\Laba1\obj\Debug\Laba1.Array.ja.resources
+C:\Users\KHALIKOVS\source\repos\Laba1\Laba1\obj\Debug\Laba1.csproj.GenerateResource.cache
+C:\Users\KHALIKOVS\source\repos\Laba1\Laba1\obj\Debug\Laba1.csproj.CoreCompileInputs.cache
+C:\Users\KHALIKOVS\source\repos\Laba1\Laba1\obj\Debug\ja\Laba1.resources.dll
+C:\Users\KHALIKOVS\source\repos\Laba1\Laba1\obj\Debug\Laba1.exe
+C:\Users\KHALIKOVS\source\repos\Laba1\Laba1\obj\Debug\Laba1.pdb
